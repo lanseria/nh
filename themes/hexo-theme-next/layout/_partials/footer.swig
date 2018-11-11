@@ -37,6 +37,10 @@
   #}<a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">{#
     #}NexT.{{ theme.scheme }}{#
   #}</a>{% if theme.footer.theme.version %} v{{ theme.version }}{% endif %}{#
+  #}<span class="post-meta-divider">|</span>{#
+  #}<a class="theme-link" target="_blank" href="http://www.miitbeian.gov.cn">{#
+    #}粤ICP备15104552号{#
+  #}</a>{#
 #}</div>
 {% endif %}
 
